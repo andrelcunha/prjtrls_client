@@ -1,0 +1,276 @@
+{
+    "token": "eyAic2Vzc2FvIjogIjhjZmEzZTE0LWQ3NTktNGQ2OC05ZTI2LTYwOTE4NzAxOGMzYyIsICJ1c3VhcmlvIjogYjAxN2M5NmItMTNjZC00OTVhLWIzNWYtZmQ4YzBkYzM1YmNiIiwgImhvcmFyaW8iOiAiMjAxNy0wOS0xMFQxNjoxMjowMy4xMjAiIH0=",
+    "pedido": "ec9be43e-16d0-43b2-86b5-1d217e77fcae",
+    "perguntas": [
+        {
+            "codigo": "3576fe29-c637-48d0-b390-428cb18654e6",
+            "enunciado": "Qual o nome do líquido amarelado, ou esverdeado, que se forma dentro das feridas inflamadas?",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "d14d65c3-f573-4341-b7dc-cfdac541055f",
+                    "texto": "Catarro ou muco",
+                    "correta": false
+                },
+                {
+                    "codigo": "1acb5f4a-b361-4530-8fc0-e26e07eddb93",
+                    "texto": "Pus",
+                    "correta": true
+                },
+                {
+                    "codigo": "e84daa2e-bc98-41b0-99f2-f0a00e58df33",
+                    "texto": "Salmoura",
+                    "correta": false
+                },
+                {
+                    "codigo": "3f2e85ce-baf3-447f-a03e-9a25df161c1e",
+                    "texto": "Baba",
+                    "correta": false
+                }
+            ]
+        },
+        {
+            "codigo": "3ea41adf-de72-4c78-a602-d103f5dd3646",
+            "enunciado": "As vacinas são fabricadas a partir...",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "a96d0583-31f8-4b3c-a66f-2ff40d07ef82",
+                    "texto": "Da queima de matéria orgânica reciclada",
+                    "correta": false
+                },
+                {
+                    "codigo": "6fe2b1f4-af62-4725-a041-b97456ba9b08",
+                    "texto": "De um subproduto do óleo vegetal reciclado",
+                    "correta": false
+                },
+                {
+                    "codigo": "c1b443f5-f38f-421b-82f5-977cef8766d3",
+                    "texto": "De micróbios ou vírus diferentes da doença que se vai combater",
+                    "correta": false
+                },
+                {
+                    "codigo": "3f00d806-0564-499d-8928-a90cca296efa",
+                    "texto": "De vírus ou micróbios da própria doença que se vai combater",
+                    "correta": true
+                }
+            ]
+        },
+        {
+            "codigo": "69efccbc-e13b-47c6-9cc9-c3c3fa31c31c",
+            "enunciado": "Qual é o aracnídeo minúsculo, quase invisível, que causa a maior parte das alergias respiratórias?",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "3becf086-26f8-4dee-92f5-83895527ca5a",
+                    "texto": "Ácaro",
+                    "correta": true
+                },
+                {
+                    "codigo": "a8738055-1f63-4711-8dd8-551991793d76",
+                    "texto": "Carrapato",
+                    "correta": false
+                },
+                {
+                    "codigo": "21ef6b01-0be6-498a-8c13-bed5fcf3b3ce",
+                    "texto": "Piolho",
+                    "correta": false
+                },
+                {
+                    "codigo": "ff61eef2-8e4a-4c17-a7d6-8e4b93e275a7",
+                    "texto": "Pulga",
+                    "correta": false
+                }
+            ]
+        },
+        {
+            "codigo": "4cf9ac43-7027-4deb-a26a-ffcd15158fa1",
+            "enunciado": "Resíduos de pele morta, em forma de pequenos pontos esbranquiçados, que se formam no couro cabeludo ou em outras partes do corpo.",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "d14d65c3-f573-4341-b7dc-cfdac541055f",
+                    "texto": "Hanseníase",
+                    "correta": false
+                },
+                {
+                    "codigo": "1acb5f4a-b361-4530-8fc0-e26e07eddb93",
+                    "texto": "Caspa",
+                    "correta": true
+                },
+                {
+                    "codigo": "e84daa2e-bc98-41b0-99f2-f0a00e58df33",
+                    "texto": "Lêndea",
+                    "correta": false
+                },
+                {
+                    "codigo": "3f2e85ce-baf3-447f-a03e-9a25df161c1e",
+                    "texto": "Eczema",
+                    "correta": false
+                }
+            ]
+        },
+        {
+            "codigo": "9d09deb4-2086-436c-8d2d-cfb3b2bb6dcc",
+            "enunciado": "Indique qual a melhor descrição para a <b>CAXUMBA</b>.",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "534860af-ce2b-4972-998c-c522c1f11293",
+                    "texto": "Inchaço e dores no pescoço",
+                    "correta": true
+                },
+                {
+                    "codigo": "bd1861cb-3a21-4ac8-96da-031aa5e1a649",
+                    "texto": "Dores nas juntas e falta de apetite",
+                    "correta": false
+                },
+                {
+                    "codigo": "049478b1-6435-473c-80b5-f77d98a90f53",
+                    "texto": "Inchaço nas mãos e suor frio",
+                    "correta": false
+                },
+                {
+                    "codigo": "7c50e9bd-d56b-46d7-98b0-8fef2a209cc7",
+                    "texto": "Queda de cabelo e emagrecimento",
+                    "correta": false
+                }
+            ]
+        },
+        {
+            "codigo": "25e0b721-9bc3-434b-91cc-7496a81b5fc9",
+            "enunciado": "Indique qual dos itens abaixo NÃO contém sintomas da DENGUE.",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "7ede97bd-c60c-4d68-8665-e64c16d96b7c",
+                    "texto": "Febre e manchas pelo corpo",
+                    "correta": false
+                },
+                {
+                    "codigo": "8c143179-1dc9-4144-9b86-9a1bad0a6aed",
+                    "texto": "Euforia e fome",
+                    "correta": true
+                },
+                {
+                    "codigo": "55bb7614-db53-4835-9f14-de88a67e4528",
+                    "texto": "Falta de apetite, dor abdominal, naúsea",
+                    "correta": false
+                },
+                {
+                    "codigo": "c694aa17-6c19-4025-ae19-50c8ae77167d",
+                    "texto": "Dores nas juntas e febre",
+                    "correta": false
+                }
+            ]
+        },
+        {
+            "codigo": "38822690-8df3-4ffc-8e01-642f5a92d878",
+            "enunciado": "A afecção conhecida por FRIEIRA é melhor descrita como...",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "9476ac34-a108-4566-bae3-8e195a5b865e",
+                    "texto": "É o mesmo que Gripe",
+                    "correta": false
+                },
+                {
+                    "codigo": "5ea88dba-1cae-46dd-b293-84be08728308",
+                    "texto": "Afecção cutânea de origem variada, localizada nos pés",
+                    "correta": true
+                },
+                {
+                    "codigo": "bd0ed0c3-a41d-4f1a-8cea-08afabfd1142",
+                    "texto": "Uma espécie de inflamação nas gengivas",
+                    "correta": false
+                },
+                {
+                    "codigo": "9a1ca5bc-a901-4b83-84f9-3c3d06a0c5d2",
+                    "texto": "Uma inflamação que ocorre principalmente no couro cabeludo",
+                    "correta": false
+                }
+            ]
+        },
+        {
+            "codigo": "e68e2a5e-ac74-42ef-a614-ddc67e3f20da",
+            "enunciado": "O que melhor descreve o TORCICOLO?",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "8e3979ed-ea22-4053-a07e-ad8f10a93534",
+                    "texto": "Uma variedade de gripe dos países frios",
+                    "correta": false
+                },
+                {
+                    "codigo": "b7fa6417-28ad-45db-bce0-1c82fb02e2b7",
+                    "texto": "Estado de contração nos músculos do pescoço, que o deixa torto",
+                    "correta": true
+                },
+                {
+                    "codigo": "948563ec-b623-4332-b357-cefa7ef1c53c",
+                    "texto": "Dor no antebraço",
+                    "correta": false
+                },
+                {
+                    "codigo": "3d2125ae-4a66-481f-bb80-5412d81d0f33",
+                    "texto": "Uma espécie de inflamação no calcanhar de aquiles",
+                    "correta": false
+                }
+            ]
+        },
+        {
+            "codigo": "22e52e28-dd6b-45d8-a13a-40a6e83b7336",
+            "enunciado": "A AFTA é melhor descrita como...",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "b185de29-ce45-4724-8daf-eab70be257bd",
+                    "texto": "Tipo de luxação nas bochechas",
+                    "correta": false
+                },
+                {
+                    "codigo": "145ba145-667b-4805-a7ce-8ea8b9031554",
+                    "texto": "Pequenas feridas do rosto semelhante às espinhas",
+                    "correta": false
+                },
+                {
+                    "codigo": "d208d816-be67-4cde-89cc-0706009352e7",
+                    "texto": "Inchaço dentro do nariz",
+                    "correta": false
+                },
+                {
+                    "codigo": "4b2bd6da-35ee-4483-a945-4032d7f222fd",
+                    "texto": "Pequena ferida superficial das mucosas, especialmente na boca",
+                    "correta": true
+                }
+            ]
+        },
+        {
+            "codigo": "ab6b5fb2-6ed3-4a45-a8a2-457d88da265b",
+            "enunciado": "A MIOPIA é melhor descrita como...",
+            "categoria": "Saúde",
+            "respostas": [
+                {
+                    "codigo": "a5591f4c-b864-4c04-a472-82882f9b1f08",
+                    "texto": "É a mesma coisa que visão dupla",
+                    "correta": false
+                },
+                {
+                    "codigo": "4d6a599d-8357-4ed9-9064-c2e7e3d003e6",
+                    "texto": "Uma espécie de anomalia que torna a visão OPACA",
+                    "correta": false
+                },
+                {
+                    "codigo": "7503a976-338c-43d1-9730-bae4b13e88d3",
+                    "texto": "Incapaciade de enxergar os objetos que estão longe",
+                    "correta": true
+                },
+                {
+                    "codigo": "b426b419-c7c7-440a-a7e5-fbd63e5ef6ba",
+                    "texto": "Incapaciade de enxergar os objetos que estão perto",
+                    "correta": false
+                }
+            ]
+        }
+    ]
+}

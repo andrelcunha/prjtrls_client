@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822d029c2a0594cfabb5e6bd9abb9e07, type: 3}
+  m_Name: 13_CADERNO-RANKING_Dialog1
+  m_EditorClassIdentifier: 
+  dialogArray:
+  - "Este \xE9 o seu <b>Caderno de Miss\xF5es</b>, onde voc\xEA tem um registro das
+    suas miss\xF5es e um ranking dos aventureiros com maior pontua\xE7\xE3o geral. "
+  - "Vamos voltar para o mapa e conhecer o \xFAltimo bot\xE3o, do <b>Menu do Jogador</b>."
+  mentorMoods: 0000000000000000
+  mentor: 0

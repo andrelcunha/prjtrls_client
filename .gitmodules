@@ -1,0 +1,9 @@
+[submodule "Unity_Timer"]
+	path = Assets/_2MuchPines/Unity_Timer
+	url = https://github.com/andrelcunha/Unity_Timer.git 
+[submodule "Assets/_2MuchPines/PluggableTweens"]
+	path = Assets/_2MuchPines/PluggableTweens
+	url = https://github.com/andrelcunha/PluggableTweens.git
+[submodule "Assets/DeadCow/Scripts/MyBox"]
+	path = Assets/DeadCow/Scripts/MyBox
+	url = https://github.com/andrelcunha/MyBox.git

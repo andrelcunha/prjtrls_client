@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822d029c2a0594cfabb5e6bd9abb9e07, type: 3}
+  m_Name: 07_MAPA_MENU_Dialog2A
+  m_EditorClassIdentifier: 
+  dialogArray:
+  - "Agora que ganhamos alguns SESUs vamos gast\xE1-los."
+  - "Clique no bot\xE3o da <b>Loja</b> no <b>Menu do Jogador</b>"
+  mentorMoods: 0000000000000000
+  mentor: 0

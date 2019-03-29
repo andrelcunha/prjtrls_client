@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_00_TELA_INICIAL.unity
+    guid: 92dde3742ab8a42349dbfa37b5c45cae
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_01_NOVO_JOGO.unity
+    guid: 6224dae9b961f4572b2182b15a6502e3
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_02_CONTINUAR_JOGO.unity
+    guid: 416137eaddc254a4e87072499000995b
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_03_ESQUECI_SENHA.unity
+    guid: a777886ebe47343f79a92c4d21ceeae2
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_04_GAME_OPTIONS.unity
+    guid: fdf9c660ea20741a3a17af4377c19583
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_05_TXT_APRESENTACAO_GAME.unity
+    guid: d98370add01884e5cbe06a8db993f449
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_06_CONFIG_AVATAR.unity
+    guid: 3359fd0ebad1e4ad09dad6d483336a86
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_07_MAPA_MENU.unity
+    guid: c06f1d998c3624c8c98002f8b2ca16d4
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_08_TELA_MISSAO.unity
+    guid: 1c9a71cd1b8534134a69054fa5a0e4f3
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_09_MISSAO_TUTORIAL.unity
+    guid: 0e9fd0eb22ef04b5a9ed62d18898af11
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_10_MISSAO_CONCLUIDA.unity
+    guid: 34f86074de85049adaa1a0b0f42a35f3
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_11_LOJA.unity
+    guid: 3a5c761a0f6ed4d9a908f6f66e733228
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_12_MENU-PERSONA-MOCHILA.unity
+    guid: 8271e5bc2fbbe4cd89a13133ff048bdf
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_13_CADERNO-RANKING.unity
+    guid: 268510e414fae4c4a9c3ac2f26f52b20
+  - enabled: 1
+    path: Assets/SagaDasProfissoes/Cenas/_14_ARENA-CONHECIMENTO.unity
+    guid: 31e09a586e0034afba513a41d8a07ff9
