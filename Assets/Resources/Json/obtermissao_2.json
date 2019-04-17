@@ -1,0 +1,29 @@
+{
+    "token": "eyAic2Vzc2FvIjogIjhjZmEzZTE0LWQ3NTktNGQ2OC05ZTI2LTYwOTE4NzAxOGMzYyIsICJ1c3VhcmlvIjogYjAxN2M5NmItMTNjZC00OTVhLWIzNWYtZmQ4YzBkYzM1YmNiIiwgImhvcmFyaW8iOiAiMjAxNy0wOS0xMFQxNjoxMjowMy4xMjAiIH0=",
+    "codigo": "6281ed27-8252-43a7-807f-4270e9a63ad7",
+    "ano": 1,
+    "semestre": 1,
+    "sequencia": 2,
+    "titulo": "MISSAO 1-1-02: TÍTULO GENÉRICO",
+    "descricao": "Esta e uma descrição da missao 02 do eixo selecionado. Isso quer dizer que o sistema esta mostrando uma descrição generica.",
+    "eixos": [
+        {
+            "nome": "ENGENHARIA",
+            "pontos": 75
+        },
+        {
+            "nome": "NEGOCIOS",
+            "pontos": 25
+        }
+    ],
+    "npc": [
+        {
+            "personagem": "DIEGO_SILVERIO",
+            "texto": "Esta é a descrição do que o Diego Silvério falará."
+        },
+        {
+            "personagem": "PEDRO_CARVALHO",
+            "texto": "E esta é a descrição do que o Pedro Carvalho falará."
+        }
+    ]
+}

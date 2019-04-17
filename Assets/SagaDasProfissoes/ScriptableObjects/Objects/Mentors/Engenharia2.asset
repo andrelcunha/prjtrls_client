@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ddc6da3a5b341d2a4a5d35e0d9a598, type: 3}
+  m_Name: Engenharia2
+  m_EditorClassIdentifier: 
+  happy: {fileID: 21300000, guid: a78da8716d19941e796bc0025bb4a41f, type: 3}
+  angry: {fileID: 21300000, guid: e189c3c5b7d5a4d938ebc9d983fc40c5, type: 3}
+  normal: {fileID: 21300000, guid: feaf51764611149088e3639c7e347104, type: 3}
+  sad: {fileID: 21300000, guid: fc4778897f14b467db86bfa48c8f651c, type: 3}
